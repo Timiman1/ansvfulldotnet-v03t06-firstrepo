@@ -1,6 +1,6 @@
 # Min elevprofil
 
-Namn: Fyll i ditt namn här
+Namn: Tim Toresson
 
 Det här vill jag lära mig om Git:
-Skriv en mening här.
+Agents, Actions, Security and quality, etc.
